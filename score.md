@@ -36,7 +36,7 @@ Look for each of the following criteria:
 
 | # | Criterion | What to look for on the page |
 |---|-----------|------------------------------|
-| 1 | Profile photo | A circular profile/headshot image for the Pro (not a service photo) |
+| 1 | Profile photo | Any image in the circular profile photo position (headshot, logo, or team photo all count) |
 | 2 | Background check | "Background checked" badge in the Overview section |
 | 3 | Business name | Business name displayed on the profile |
 | 4 | Year founded | "X years in business" or "In business since [year]" |
@@ -89,8 +89,7 @@ Look for each of the following criteria:
   - 10+ = 15
 
 - Featured project /10:
-  - Present with cost attached = 10
-  - Present but no cost = 5
+  - Present = 10
   - Missing = 0
 
 - FAQs /10:
